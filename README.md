@@ -6,7 +6,7 @@ This application uses Google's speech recognition and text-to-speech technology,
 ## Setup
 
 1. Install the required Python packages by running:
-pip install streamlit speech_recognition pyttsx3 google
+pip install streamlit speech_recognition pyttsx3 
 
 2. Get the necessary API key for the palm library from Google. Replace 'YOUR_API_KEY_HERE' with your actual API key in the code.
 
